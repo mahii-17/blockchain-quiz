@@ -50,6 +50,6 @@ QuizChain is an innovative platform that merges the excitement of quizzes with t
 
 ## **Contact Information**
 - **Developer:** Sonu Gupta
-- **Email:** sonuguptabtcs@gmail.com
+- **Email:** sonuguptabtcs@adtu.in
 - **GitHub:** https://github.com/mahii-17
 
