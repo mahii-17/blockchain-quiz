@@ -1,4 +1,5 @@
 # **QuizChain: Blockchain-Based Quiz Platform**
+![quiz-chain](https://github.com/user-attachments/assets/54d57551-f9f3-4579-9bc7-e58fa600a784)
 
 ## **Vision**
 QuizChain is an innovative platform that merges the excitement of quizzes with the transparency and security of blockchain technology. Our vision is to create an engaging and rewarding experience for users by allowing them to earn tokens for answering quiz questions correctly. We aim to build a decentralized, fair, and fun ecosystem where knowledge truly pays off.
