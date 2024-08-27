@@ -36,8 +36,8 @@ QuizChain is an innovative platform that merges the excitement of quizzes with t
 ```
 
 ## **Smart Contract Details**
-- **Contract Address:** `0xYourSmartContractAddressHere`
-- **Blockchain:** Ethereum (or specify the blockchain you're using, e.g., Polygon, BSC)
+- **Contract Address:** 0xcF54bC526D9b32e95050720Af4ada2476Bd1aCad
+- **Blockchain:** Ethereum 
 - **Token Standard:** ERC-20
 
 ## **Future Scope**
@@ -50,5 +50,5 @@ QuizChain is an innovative platform that merges the excitement of quizzes with t
 ## **Contact Information**
 - **Developer:** Sonu Gupta
 - **Email:** looksonu0007@gmail.com
-- **GitHub:** https://github.com/mahii-17/blockchain-quiz
+- **GitHub:** https://github.com/mahii-17
 
