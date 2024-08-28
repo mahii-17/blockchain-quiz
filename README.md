@@ -35,6 +35,13 @@ QuizChain is an innovative platform that merges the excitement of quizzes with t
 |       (Correct Answer - Earn Tokens in Wallet)   |
 +--------------------------------------------------+
 ```
+## **Key Features**
+- **Decentralized Quiz Platform:** All quizzes are managed through smart contracts on the blockchain, ensuring transparency and fairness.
+- **Token Rewards:** Users earn ERC-20 tokens for every correct answer, incentivizing knowledge sharing and participation.
+- **Secure and Immutable:** Blockchain technology ensures that all transactions, quiz results, and rewards are secure and cannot be tampered with.
+- **Wallet Integration:** Users can connect their crypto wallets (e.g., MetaMask) to participate in quizzes and receive rewards directly in their wallets.
+- **Future-Ready:** The platform is designed with scalability in mind, allowing for future integration of features like NFTs, multiplayer modes, and mobile apps.
+
 
 ## **Smart Contract Details**
 - **Contract Address:** 0xcF54bC526D9b32e95050720Af4ada2476Bd1aCad
